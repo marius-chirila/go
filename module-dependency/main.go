@@ -13,4 +13,5 @@ func main() {
 
 	fmt.Println(puppy.Bark(), "\t", puppy.Barks())
 	fmt.Println(puppy.BigBark(), "\t", puppy.BigBarks())
+	puppy.DifferentTag()
 }
