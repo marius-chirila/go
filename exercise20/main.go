@@ -18,4 +18,11 @@ func main() {
 			break
 		}
 	}
+
+	for i := 0; i < 20; i++ {
+		if i%2 == 0 {
+			continue
+		}
+		fmt.Printf("This is an odd number %d\n", i)
+	}
 }
