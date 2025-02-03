@@ -7,10 +7,10 @@ import (
 )
 
 type person struct {
-	First  string
-	Last   string
-	Age    int
-	Saying string
+	First   string
+	Last    string
+	Age     int
+	Sayings []string
 }
 
 func main() {
