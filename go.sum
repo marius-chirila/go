@@ -2,3 +2,5 @@ github.com/marius-chirila/dog v0.0.0-20250120123122-916335250fe3 h1:JsQH6jTDGNg/
 github.com/marius-chirila/dog v0.0.0-20250120123122-916335250fe3/go.mod h1:bVJQiqV0V58vSBYjOoPd+mpbTMj8/CsaXDuvla7H1m0=
 github.com/marius-chirila/puppy v0.2.2-0.20250120125439-86fbb170e664 h1:fyFVPtIS5xBCVKu94aFYqasR8TFW8nhbWvFh3ilvyy4=
 github.com/marius-chirila/puppy v0.2.2-0.20250120125439-86fbb170e664/go.mod h1:W3zuW+LWsTSjnNj3pUlRPK54RGy++VR8VxHpaswac+I=
+golang.org/x/crypto v0.32.0 h1:euUpcYgM8WcP71gNpTqQCn6rC2t6ULUPiOzfWaXVVfc=
+golang.org/x/crypto v0.32.0/go.mod h1:ZnnJkOaASj8g0AjIduWNlq2NRxL0PlBrbKVyZ6V/Ugc=
