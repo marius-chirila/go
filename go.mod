@@ -7,4 +7,4 @@ require (
 	golang.org/x/crypto v0.32.0
 )
 
-require github.com/marius-chirila/dog v0.0.0-20250210110706-00d15de904fd // indirect
+require github.com/marius-chirila/dog v0.0.0-20250210110706-00d15de904fd
