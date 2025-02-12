@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/GoesToEleven/go-programming/code_samples/010-ninja-level-thirteen/02/01-code-starting/quote"
-	"github.com/GoesToEleven/go-programming/code_samples/010-ninja-level-thirteen/02/01-code-starting/word"
+	"github.com/marius-chirila/go/exercise53/quote"
+	"github.com/marius-chirila/go/exercise53/word"
 )
 
 func main() {
