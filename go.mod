@@ -8,5 +8,3 @@ require (
 )
 
 require github.com/marius-chirila/dog v0.0.0-20250210110706-00d15de904fd
-
-require github.com/GoesToEleven/go-programming v0.0.0-20181228215051-5519dbb87bc5
