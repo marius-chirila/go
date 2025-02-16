@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/marius-chirila/go/exercise53/quote"
-	"github.com/marius-chirila/go/exercise53/word"
+	"github.com/marius-chirila/go/exercises/exercise53/quote"
+	"github.com/marius-chirila/go/exercises/exercise53/word"
 )
 
 func main() {

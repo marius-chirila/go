@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/marius-chirila/go/exercise54/mymath"
+	"github.com/marius-chirila/go/exercises/exercise54/mymath"
 )
 
 func main() {

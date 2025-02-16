@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/marius-chirila/go/exercise53/quote"
+	"github.com/marius-chirila/go/exercises/exercise53/quote"
 )
 
 func TestCount(t *testing.T) {
